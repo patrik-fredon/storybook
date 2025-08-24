@@ -90,7 +90,7 @@
     "@types/uuid": "^9.0.8",
     "@types/wait-on": "^5.3.4",
     "@types/window-size": "^1.1.4",
-    "@typescript-eslint/eslint-plugin": "^7.16.0",
+    "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@typescript-eslint/experimental-utils": "^5.62.0",
     "@typescript-eslint/parser": "^7.16.0",
     "@vitest/coverage-v8": "^2.1.3",
