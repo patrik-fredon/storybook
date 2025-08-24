@@ -83,7 +83,7 @@
     "@types/prettier": "^3.0.0",
     "@types/pretty-hrtime": "^1.0.3",
     "@types/prompts": "2.4.9",
-    "@types/react": "^18.3.3",
+    "@types/react": "^18.3.23",
     "@types/react-dom": "^18.3.0",
     "@types/semver": "^7.5.8",
     "@types/serve-static": "^1.15.7",
